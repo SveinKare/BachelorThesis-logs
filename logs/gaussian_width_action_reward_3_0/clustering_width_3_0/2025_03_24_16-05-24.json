@@ -6,7 +6,7 @@
     "gaussian_width_rewards": 3.0,
     "training_seed": 3275983768,
     "testing_seed": 1484906415,
-    "comments": "",
+    "comments": "Commit 1509ec1",
     "training_time": 100,
     "testing_time": 100,
     "training_rewards": [
